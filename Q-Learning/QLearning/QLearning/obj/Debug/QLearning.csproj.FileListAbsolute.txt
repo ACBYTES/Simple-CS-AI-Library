@@ -1,0 +1,7 @@
+C:\Users\Alireza\source\repos\QLearning\QLearning\bin\Debug\QLearning.exe.config
+C:\Users\Alireza\source\repos\QLearning\QLearning\bin\Debug\QLearning.exe
+C:\Users\Alireza\source\repos\QLearning\QLearning\bin\Debug\QLearning.pdb
+C:\Users\Alireza\source\repos\QLearning\QLearning\obj\Debug\QLearning.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\QLearning\QLearning\obj\Debug\QLearning.exe
+C:\Users\Alireza\source\repos\QLearning\QLearning\obj\Debug\QLearning.pdb
+C:\Users\Alireza\source\repos\QLearning\QLearning\obj\Debug\QLearning.csproj.CoreCompileInputs.cache
